@@ -1,0 +1,15 @@
+Five Pivot Table Questions You Can Ask Students
+1️⃣ What is the average final grade (G3) by school and sex?
+➡ Helps see if performance differs by school and gender.
+
+2️⃣ What’s the total number of students receiving extra educational support (schoolsup) by family size and parent status?
+➡ Checks if family situation influences support needs.
+
+3️⃣ What’s the average study time by age group?
+➡ Groups ages and examines how much they study.
+
+4️⃣ What’s the relationship between parental education (Medu, Fedu) and student final grades?
+➡ Summarize average grades by parent education levels.
+
+5️⃣ How do weekend alcohol consumption (Walc) and weekday alcohol consumption (Dalc) compare by age and sex?
+➡ Looks at lifestyle patterns across groups.
