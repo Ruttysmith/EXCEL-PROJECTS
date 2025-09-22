@@ -1,0 +1,26 @@
+
+
+Data isn’t just numbers, it’s a story of trust, risk, and opportunity.
+
+I recently wrapped up a big analytics project where I explored and visualized bank loan performance, diving deep into MTD (Month-to-Date), MOM (Month-on-Month), and PMTD (Previous Month-to-Date) calculations.
+
+This dashboard goes beyond raw data. It shows:
+✅ Total loan applications (38.6K+)
+✅ Funded vs. received amounts (\$435M+ vs. \$473M+)
+✅ Average interest rates & debt-to-income ratio
+✅ Good vs. bad loan distribution (86% vs. 14%)
+✅ Loan performance by state, purpose, term & employment length
+
+What excites me most about this work is turning complexity into clarity. With just a glance, decision-makers can see how loans are performing, identify risk areas, and understand the health of their portfolio.
+
+ Imagine a bank executive using this dashboard, they don’t need to crunch numbers; they can instantly see insights like:
+
+* Which loans are performing well
+* How much money is actually being recovered
+* Where default risks are highest
+
+This project reminded me why I love data analytics: it transforms decisions, fuels growth, and reduces risk.
+
+ If you’re a business leader, financial analyst, or aspiring data professional, insights like these show just how much power lies in analyzing the right metrics.
+
+🔗If you’re curious about how I built this step by step, feel free to connect or send me a DM.
